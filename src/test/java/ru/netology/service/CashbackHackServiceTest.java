@@ -1,6 +1,5 @@
 package ru.netology.service;
 
-<<<<<<< HEAD
 import org.testng.annotations.Test;
 
 import static org.testng.Assert.*;
